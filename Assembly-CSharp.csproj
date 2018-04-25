@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{83929B75-BD99-0D5A-4A6D-F003B2BA1E38}</ProjectGuid>
+    <ProjectGuid>{8F530D08-AA3E-08B7-BDE7-E5B09E5A4CD1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,9 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\LedController.cs" />
-     <Compile Include="Assets\RotateByAccelerometer.cs" />
-     <Compile Include="Assets\SerialHandler.cs" />
+     <Compile Include="Assets\rcvCS.cs" />
  <Reference Include="UnityEngine.UIAutomation">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
  </Reference>
